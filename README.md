@@ -1,0 +1,2 @@
+# friendnames
+sscfriendnames
