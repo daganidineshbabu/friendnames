@@ -1,0 +1,12 @@
+task 1  
+type ^ friends details 
+1.vineeth
+2.sagar
+3.sundar
+4.rakesh
+5.aditya
+6.rohith
+7.pavan
+8.dharma
+9.naveen
+10.murali
